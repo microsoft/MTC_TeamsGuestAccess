@@ -8,20 +8,16 @@ Taxonomies for products and languages: https://review.docs.microsoft.com/new-hop
 
 # Microsoft Teams and Guest Access
 
-Give a short description for your sample here. What does it do and why is it important?
+Teams guest access can be enabled or disabled for an organization - the setting is disabled by default and applies across the organization's tenant. But how does an organization enable the feature only for select, authorized teams? And once enabled, how does an organization protect it's information while being shared with guests? The answers to these questions require a deeper understanding of Teams architecture and Microsoft 365 security and compliance capabilities. This is discussed in the Automating the Provisioning of Selective Teams with Guest Access blog series.
 
-## Contents
-
-Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
-
-| File/folder       | Description                                |
-|-------------------|--------------------------------------------|
-| `src`             | Sample source code.                        |
-| `.gitignore`      | Define what to ignore at commit time.      |
-| `CHANGELOG.md`    | List of changes to the sample.             |
-| `CONTRIBUTING.md` | Guidelines for contributing to the sample. |
-| `README.md`       | This README file.                          |
-| `LICENSE`         | The license for the sample.                |
+## Blog Series
+Introduction (you are here)
+History & Background
+Part 1: Application Authentication - Azure AD Application Registrations
+Part 2: Request Storage - SharePoint
+Part 3: Request Process Automation - Microsoft Power Automate & Microsoft Graph
+Part 4: Enhanced User Interface - Power Apps
+Part 5: Next Steps - Security
 
 ## Prerequisites
 
