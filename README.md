@@ -8,32 +8,23 @@ Taxonomies for products and languages: https://review.docs.microsoft.com/new-hop
 
 # Microsoft Teams and Guest Access
 
-Teams guest access can be enabled or disabled for an organization - the setting is disabled by default and applies across the organization's tenant. But how does an organization enable the feature only for select, authorized teams? And once enabled, how does an organization protect it's information while being shared with guests? The answers to these questions require a deeper understanding of Teams architecture and Microsoft 365 security and compliance capabilities. This is discussed in the Automating the Provisioning of Selective Teams with Guest Access blog series.
+Teams guest access can be enabled or disabled for an organization - the setting is disabled by default and applies across the organization's tenant. But how does an organization enable the feature only for select, authorized teams? And once enabled, how does an organization protect it's information while being shared with guests?
+
+The answers to these questions require a deeper understanding of Teams architecture and Microsoft 365 security and compliance capabilities. This is discussed in the Automating the Provisioning of Selective Teams with Guest Access blog series.
 
 ## Blog Series
-Introduction (you are here)
-History & Background
-Part 1: Application Authentication - Azure AD Application Registrations
-Part 2: Request Storage - SharePoint
-Part 3: Request Process Automation - Microsoft Power Automate & Microsoft Graph
-Part 4: Enhanced User Interface - Power Apps
-Part 5: Next Steps - Security
 
-## Prerequisites
-
-Outline the required components and tools that a user might need to have on their machine in order to run the sample. This can be anything from frameworks, SDKs, OS versions or IDE releases.
-
-## Setup
-
-Explain how to prepare the sample once the user clones or downloads the repository. The section should outline every step necessary to install dependencies and set up any settings (for example, API keys and output folders).
-
-## Runnning the sample
-
-Outline step-by-step instructions to execute the sample and see its output. Include steps for executing the sample from the IDE, starting specific services in the Azure portal or anything related to the overall launch of the code.
+- Introduction
+- History & Background
+- Part 1: Application Authentication - Azure AD Application Registrations
+- Part 2: Request Storage - SharePoint
+- Part 3: Request Process Automation - Microsoft Power Automate & Microsoft Graph
+- Part 4: Enhanced User Interface - Power Apps
+- Part 5: Next Steps - Security
 
 ## Key concepts
 
-Provide users with more context on the tools and services used in the sample. Explain some of the code that is being used and how services interact with each other.
+The solutions housed here complement the blog articles above.  Provide users with more context on the tools and services used in the sample. Explain some of the code that is being used and how services interact with each other.
 
 ## Contributing
 
