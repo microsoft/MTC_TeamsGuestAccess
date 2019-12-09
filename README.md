@@ -25,3 +25,7 @@ The answers to these questions require a deeper understanding of Teams architect
 ## Key concepts
 
 The solutions housed here in this repository complement the blog articles above.  All of the supporting images, scripts, flows, etc. are housed here.
+
+These assets also complement the discussion and walk through of the solution at my Microsoft Ignite sessions
+- [Authorize and automate Teams guest access with surgical precision (Part 1)](https://myignite.techcommunity.microsoft.com/sessions/85261?source=sessions)
+- [Authorize and automate Teams guest access with surgical precision (Part 2)](https://myignite.techcommunity.microsoft.com/sessions/85263?source=sessions)
